@@ -83,6 +83,8 @@ xnor g7(c7,a,b);
 endmodule
  
 **Logic symbol & Truthtable**
+
+
 ![Screenshot 2024-11-13 135117](https://github.com/user-attachments/assets/d75c0550-599b-48c3-9123-9b84711f7c40)
 ![Screenshot 2024-11-12 134845](https://github.com/user-attachments/assets/2cd35ff3-28c1-4fbf-94fb-d14cf4b3bfd7)
 
